@@ -1,10 +1,10 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to Java EOCV](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [🔳 Edge + Contour Detection](overview/edge-+-contour-detection.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
