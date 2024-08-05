@@ -2,21 +2,21 @@
 
 * [👋 Welcome to Java EOCV](README.md)
 
-## Overview
+## Java
 
-* [🔳 Edge + Contour Detection](overview/edge-+-contour-detection.md)
-* [✨ Our Features](overview/our-features.md)
+* [🔳 Edge + Contour Detection](java/edge-+-contour-detection.md)
+* [✨ Our Features](java/our-features.md)
+
+## Python
+
+* [🛠️ Getting set up](python/getting-set-up/README.md)
+  * [📝 Setting permissions](python/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](python/getting-set-up/inviting-members.md)
 
 ## Product Guides
 
 * [📪 Making a post](product-guides/making-a-post.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
 ## Use Cases
 

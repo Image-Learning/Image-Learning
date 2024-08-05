@@ -62,26 +62,26 @@ public abstract class VisionPipeline extends OpenCvPipeline {
 
 ## FTC (Java)
 
-{% content-ref url="overview/edge-+-contour-detection.md" %}
-[edge-+-contour-detection.md](overview/edge-+-contour-detection.md)
+{% content-ref url="java/edge-+-contour-detection.md" %}
+[edge-+-contour-detection.md](java/edge-+-contour-detection.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="java/our-features.md" %}
+[our-features.md](java/our-features.md)
 {% endcontent-ref %}
 
 ## Python
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="python/getting-set-up/" %}
+[getting-set-up](python/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="python/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](python/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="python/getting-set-up/inviting-members.md" %}
+[inviting-members.md](python/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
