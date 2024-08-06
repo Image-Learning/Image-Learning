@@ -12,7 +12,7 @@ description: Created by Amitesh_Sen | Green.Griffins and Aarsh | Voyager 6+
 
 EOCV stands for "Easy Open CV". It's main purpose is to allow teams, from rookies to worlds-winners, to use OpenCV effectively on an FTC robot! But what is OpenCV? OpenCV is an open-source computer vision library that provides tools and functions for image and video processing, enabling applications like facial recognition, object detection, and more. To learn about EOCV, visit its [GitHub](https://github.com/OpenFTC/EasyOpenCV), and to learn more about OpenCV visit their [official website](https://opencv.org/).
 
-This notebook goes over the basics of EOCV and some applications/uses of features with one big project. This all encompassing project includes Edge+Contour Detection, HSV and Value Filters, and lastly Object Detection and matching. Each piece of the puzzles is explained in this overview of the project.
+This notebook goes over the basics of EOCV and some applications/uses of features with one big project. This all encompassing project includes Edge+Contour Detection, HSV and Value Filters, and lastly Object Size and Detection. Each piece of the puzzles is explained in this overview of the project.
 
 ## Prerequisites:
 
@@ -62,8 +62,8 @@ public abstract class VisionPipeline extends OpenCvPipeline {
 
 ## FTC (Java)
 
-{% content-ref url="java/edge-+-contour-detection.md" %}
-[edge-+-contour-detection.md](java/edge-+-contour-detection.md)
+{% content-ref url="java/detection.md" %}
+[detection.md](java/detection.md)
 {% endcontent-ref %}
 
 {% content-ref url="java/our-features.md" %}

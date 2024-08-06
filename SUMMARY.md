@@ -4,7 +4,7 @@
 
 ## Java
 
-* [🔳 Edge + Contour Detection](java/edge-+-contour-detection.md)
+* [📸 Detection](java/detection.md)
 * [✨ Our Features](java/our-features.md)
 
 ## Python
