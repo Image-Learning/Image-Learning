@@ -66,8 +66,8 @@ public abstract class VisionPipeline extends OpenCvPipeline {
 [detection.md](java/detection.md)
 {% endcontent-ref %}
 
-{% content-ref url="java/our-features.md" %}
-[our-features.md](java/our-features.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Python

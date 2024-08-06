@@ -5,7 +5,6 @@
 ## Java
 
 * [📸 Detection](java/detection.md)
-* [✨ Our Features](java/our-features.md)
 
 ## Python
 
