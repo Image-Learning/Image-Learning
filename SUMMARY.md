@@ -5,6 +5,7 @@
 ## Java
 
 * [📸 Detection](java/detection.md)
+* [AprilTags](java/apriltags.md)
 
 ## Python
 
