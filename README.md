@@ -1,5 +1,5 @@
 ---
-description: Created by Amitesh_Sen | Green.Griffins and Aarsh | Voyager 6+
+description: Created by Amitesh_Sen | Green.Griffins
 ---
 
 # 👋 Welcome to Java EOCV
