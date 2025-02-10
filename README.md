@@ -66,17 +66,13 @@ public abstract class VisionPipeline extends OpenCvPipeline {
 [detection.md](java/detection.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="java/apriltags.md" %}
+[apriltags.md](java/apriltags.md)
 {% endcontent-ref %}
 
 ## Python
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="python/getting-set-up/" %}
-[getting-set-up](python/getting-set-up/)
-{% endcontent-ref %}
 
 {% content-ref url="python/getting-set-up/setting-permissions.md" %}
 [setting-permissions.md](python/getting-set-up/setting-permissions.md)

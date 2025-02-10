@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📎 Understanding Projects
 
 ## How Projects work

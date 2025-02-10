@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🎨 For Designers
 
 {% hint style="info" %}

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🖥️ For Developers
 
 {% hint style="info" %}

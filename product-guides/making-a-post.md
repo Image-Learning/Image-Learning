@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📪 Making a post
 
 ## Step 1 - Start journalling
